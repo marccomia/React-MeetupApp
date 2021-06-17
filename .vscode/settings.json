@@ -1,0 +1,5 @@
+{
+    "SilverStripe.useItems": "true",
+    "SilverStripe.showSnippetCount": true,
+    "SilverStripe.comments": "true"
+}
